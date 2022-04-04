@@ -39,7 +39,9 @@ Cхожість та одноманітність страт різних люд
 
 Новий ГОСТ РФ про масові захоронення був прийнятий у вересні 21-го
 року та введений в дію 1-го лютого 2022, трохи більше, ніж за 3 тижні
-до початку відкритої війни: [[https://docs.cntd.ru/document/1200180859][НАЦИОНАЛЬНЫЙ СТАНДАРТ РОССИЙСКОЙ ФЕДЕРАЦИИ. ЗАХОРОНЕНИЕ СРОЧНОЕ ТРУПОВ В ВОЕННОЕ И МИРНОЕ ВРЕМЯ]], [[https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859][Web Archive]].
+до початку відкритої війни: [[https://docs.cntd.ru/document/1200180859][НАЦИОНАЛЬНЫЙ СТАНДАРТ РОССИЙСКОЙ
+ФЕДЕРАЦИИ. ЗАХОРОНЕНИЕ СРОЧНОЕ ТРУПОВ В ВОЕННОЕ И МИРНОЕ ВРЕМЯ]], [[https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859][Web
+Archive]].
 
 Задача: перевірити розміри масового захоронення в Бучі. По їхньому
 стандарту має бути:
@@ -57,9 +59,9 @@ Cхожість та одноманітність страт різних люд
 
 Про підготовку мобільних крематоріїв для вторгнення в Україну армією
 РФ за добу до вторгнення заявив Міністр Оборони Великобританії Ben
-Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]] ([[https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][Web Archive]]). 
-Правда, пан Walles помилково вирішив, що за їх допомогою армія РФ збирається приховувати
-власні втрати.
+Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]] ([[https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][Web Archive]]).
+Правда, пан Walles помилково вирішив, що за їх допомогою армія РФ
+збирається приховувати власні втрати.
 
 Підтвердженнями тези про те, що крематорії призначались не для російських солдат можуть слугувати наступні факти:
 
