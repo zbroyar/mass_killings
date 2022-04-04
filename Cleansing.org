@@ -38,7 +38,7 @@ Cхожість та одноманітність страт різних люд
 
 Новий ГОСТ РФ про масові захоронення був прийнятий у вересні 21-го
 року та введений в дію 1-го лютого 2022, трохи більше, ніж за 3 тижні
-до початку відкритої війни.
+до початку відкритої війни: [[https://docs.cntd.ru/document/1200180859][НАЦИОНАЛЬНЫЙ СТАНДАРТ РОССИЙСКОЙ ФЕДЕРАЦИИ. ЗАХОРОНЕНИЕ СРОЧНОЕ ТРУПОВ В ВОЕННОЕ И МИРНОЕ ВРЕМЯ]], [[https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859][Web Archive]].
 
 Задача: перевірити розміри масового захоронення в Бучі. По їхньому
 стандарту має бути:
@@ -56,7 +56,7 @@ Cхожість та одноманітність страт різних люд
 
 Про підготовку мобільних крематоріїв для вторгнення в Україну армією
 РФ за добу до вторгнення заявив Міністр Оборони Великобританії Ben
-Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]]. Правда, пан Walles
+Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]] ([[https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][We Archive]]). Правда, пан Walles
 помилково вирішив, що за їх допомогою армія РФ збирається приховувати
 власні втрати.
 
@@ -93,11 +93,11 @@ Wallace. Про це написав, зокрема, [[https://www.telegraph.co.
 поділу/переділу території України, а також до вбивств громадян
 України.
 
-- http://kremlin.ru/events/president/news/66181
-- https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html
-- https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html
-- https://ria.ru/20220403/ukraina-1781469605.html
-- https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s
+- [[http://kremlin.ru/events/president/news/66181][Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года]],  [[https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181][Web Archive]]
+- [[https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html]["Туманное будущее похабного мира", 15 февраля 2022]],  [[https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html][Web Archive]]
+- [[https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html]["Куда делся хаос? Распаковка стабильности", 20 ноября 2021]],   [[https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html][Web Archive]]
+- [[https://ria.ru/20220403/ukraina-1781469605.html]["Что Россия должна сделать с Украиной", 03.04.2022]],   [[https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html][Web Archive]]
+- [[https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s][Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016]]
 
 ** Історичні дані щодо modus operandi росіян в Україні
 
@@ -125,5 +125,8 @@ Wallace. Про це написав, зокрема, [[https://www.telegraph.co.
 
 Шеф британської військової розвідки MI6 написав, що вони мали
 інформацію про заплановані позасудові вбивства ще до вторгнення:
-
+#+BEGIN_QUOTE
+We knew Putin’s invasion plans included summary executions by his military and intelligence services. 
+The reports of execution-style killings of civilians emerging from liberated areas are horrifying and chilling.
+#+END_QUOTE
 https://twitter.com/ChiefMI6/status/1510629183365517326
