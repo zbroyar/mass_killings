@@ -1,4 +1,4 @@
-#+TITLE: About the *planned* mass murders on the territory of Ukraine
+#+TITLE:  On *planned* mass murders on the territory of Ukraine
 #+AUTHOR: Mykola Stryebkov
 #+LATEX_HEADER: \usepackage[utf8]{inputenc}
 #+LATEX_HEADER: \usepackage[T2A]{fontenc}
@@ -13,10 +13,10 @@ The mass killings of Ukrainian citizens by the Russian invasion forces are
 the result of a *pre-planned operation aimed at physical
 extermination of the socially active stratum of Ukrainian society*.
 
-Russians being "loaded" for such social purges is, in particular, a
-consequence of many years of state propaganda in the Russian
-Federation and the invariability of the modus operandi of Russians in
-Ukraine for the last century.
+Russians are eager for such social purges, in particular, because of
+many years of state propaganda in the Russian Federation and the
+invariability of the modus operandi of Russians in Ukraine for the
+last century.
 
 * The Evidence
 
