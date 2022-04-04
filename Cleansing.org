@@ -9,109 +9,58 @@
 
 * Table of Content
 
-Масові вбивства громадян України силами вторгнення РФ є результатом
-*заздалегідь спланованої операції по фізичному винищенню
-соціально-активного прошарку українського суспільства*.
 Mass executions of Ukrainian citizens by Russian invasion forces are the result of
 *premeditated operation with the goal of eliminating socaially active class of Ukrainian
 society*
 
-"Заряженість" росіян на такі соціальні чистки є, зокрема, наслідком
-багаторічної державної пропаганди в РФ та незмінності їх modus operandi
-в Україні (див. нижче).
-Willingness/Eagerness of Russians to carry out such actions is in part the result of
+Willingness of Russians to carry out such actions is in part the result of
 prolonged propaganda campaign by the Russian state and its consistent modus operandi
 in Ukraine (see below).
 
-*Документ буде уточнюватись та доповнюватись по мірі отримання та
-обробки нових даних.*
 *This document is work in progress and will be expanded accordingly.*
 
-* Підтвердження
+* Evidence
 
-** Одноманітність страт
 ** Uniformity of the executions
 
-Cхожість та одноманітність страт різних людей у різних населених пунктах
-говорить про їх виконання згідно єдиної методики.
 The fact that the executions were carried out in the same or similar manner
 accross wide geographicall area points out to the use of the same methodology.
 
-Так, серед масових вбивств мирних мешканців Київській області явно
-виділяються вбивства людей, - переважно чоловіків призовного віку, -
-із зв'язаними за спиною руками та кульовим отвором у потилиці.
 For example, hands tied behind their back and a gunshot to the back of their head
 is a clear pattern visible among civilians executed in the Kyiv region predominatelly
 a military age males.
 
-Задача: перевірити існування відповідної методичної літератури у
-силових структурах РФ.
 Goal: verify presence of the relevant procedural documentation in 
 Russian Armed Forces.
 
-** ГОСТ Р 42.7.01-2021 на масові захоронення
 ** GOST[Russian equivalent of ISO]  R 42.7.01-2021 about mass burials 
 
-Новий ГОСТ РФ про масові захоронення був прийнятий у вересні 21-го
-року та введений в дію 1-го лютого 2022, трохи більше, ніж за 3 тижні
-до початку відкритої війни.
 New GOST about mass burials has been adopted in September of 2021 and 
 enacted on February 1st of 2022 which is 3 weeks before the invasion 
 of Ukraine.
 
-Задача: перевірити розміри масового захоронення в Бучі. По їхньому
-стандарту має бути:
-- 20м - довжина по низу
-- 3м - ширина
-- 2.3м - глибина.
-- 32м - по верху, з урахуванням схилів для виїзду трактора.
 Task: Check the dimensions of mass grave in Bucha. According to the GOST,
 the imensions should be:
 - 20m length
 - 3m width
 - 2.3m depth
 
-** Мобільні крематорії
 ** Mobile crematoriums
 
-Призначались для уникнення поховань громадських та суспільних діячів
-України, оскільки публічно відомі місця захоронення з часом створює
-"місця паломництва" (modus operandi аналогічний до вбивства Романа
-Шухевича, див. нижче).
 The goal of mobile crematoriums is to avoid having burial sites for the 
 Ukrainian public figures since such sites become landmarks over time (
 modus operandi that had been used after killing Roman Schuhevych, see below).
 
-Про підготовку мобільних крематоріїв для вторгнення в Україну армією
-РФ за добу до вторгнення заявив Міністр Оборони Великобританії Ben
-Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]]. Правда, пан Walles
-помилково вирішив, що за їх допомогою армія РФ збирається приховувати
-власні втрати.
 A day before the invasion, Secretary of State for Defence of the UK 
 Ben Wallace mentioned about preparation of mobile crematoriums by Russia. See 
 here: [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]].
 Mr Wallace mistankenly assumed that such crematoriums are to be used to
 conseal Russian casualties.
 
-Підтвердженнями тези про те, що крематорії призначались не для
-рос. солдат можуть слугувати наступні факти:
 The following shows that the creamatoriums were not for disposing Russian casualties:   
 
-- там, де армія РФ взагалі збирала трупи своїх, був налагоджений їх
-  вивіз за межі України.
 - Logistics of transporting the bodies to the outside of the Ukrainian territory  
 were established in the battle areas where Russia collected their dead. 
-- використання моб. крематоріїв для масового спалення тіл є
-  нераціональним через характеристики, [[http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331][заявлені виробником]]:
-+BEGIN_QUOTE
-При использовании в ритуальных целях:
-
-- время полной кремации одного объекта: около 1 часа
-- выгрузка праха автоматизирована
-- кремуляция
-- система дополнительной пылеочистки
-- 15-16 литров дизтоплива или 20 м3 природного газа на кремацию одного объекта
-#+END_QUOTE
 - Using mobile crematoriums for mass disposal of bodies is inneficient
   due to the specifications of such creamtoriums [[http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331]:
 +BEGIN_QUOTE
@@ -124,24 +73,14 @@ Specs:
 - 15-16 l of diesel or 20-30 m3 of natural gas is used for a single creamation
 #+END_QUOTE
 
-** 45000 мішків для трупів
 ** 45000 body bags
-Мішки призначались для громадян України.
 Body bags were for the Ukrainian citizens.
 
-Якби мішки призначались для трупів військовослужбовців РФ, то це-б
-означало, що росіяни, зібравши 200 тисяч для вторгнення, запланували
-безповоротні втрати на рівні 22.5% та повні втрати на рівні 90% від
-загальної чисельності угруповання, що є нереальним.
 If body bags were for the Russian KIAs, this would imply that the
 russians, with 200,000 invasion force, have planned 22.5% KIA and about
 90% casualties which is not sustainable.
 
-** Державна пропаганда в РФ
 ** Russian state propaganda
-У приведених нижче публічних матеріалах присутні заклики до примусового
-поділу/переділу території України, а також до вбивств громадян
-України.
 Public sources listed below call for the forced division of Ukrainian territory 
 and also killing of ukrainian citizens.
 - http://kremlin.ru/events/president/news/66181
@@ -150,23 +89,11 @@ and also killing of ukrainian citizens.
 - https://ria.ru/20220403/ukraina-1781469605.html
 - https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s
 
-** Історичні дані щодо modus operandi росіян в Україні
 ** Historical data to Russian modus operandi in Ukraine
 
-Події останніх 8 років демонструють незмінність modus operandi росіян
-в Україні протягом останнього сторіччя:
 The last 8 years show that the Russian mous operandi in Ukraine has 
 remained unchanged for the last century
-1. [[https://tinyurl.com/d2s3mkbh][Створення "народних республік" на території України у 1917-1918 роках]].
-2. [[https://www.istpravda.com.ua/articles/2019/03/12/153809/][Масові вбивства киян військами Мурав'йова]], [[https://tinyurl.com/bdf9ktxh][червоний терор]]. Цитата:
-   "Вчинений більшовиками у Києві злочин – розстріл беззахисних жертв
-   не за те, що вони скоїли, а за те, ким вони були, – відповідає
-   тому, що в літературі називається геноцидною стратегією: наміром
-   знищити конкретну групу людей. У нашому випадку йшлося про дві такі
-   групи: представників "старого порядку" – аристократії, чиновників,
-   генералітету, офіцерів – та прибічників УНР – політиків та
-   військовиків.  При детальнішому аналізі даних метрик, можливо,
-   будуть підстави виокремити третю групу – молодих чоловіків."
+1. [[https://tinyurl.com/d2s3mkbh][Creation of "people's republics" on the Ukrainian territory in 1917-1918]].
 Quote:
   "The crime commited by Bolsheviks in Kyiv - execution of victims not for
   what they have done, but for who they were - is consistent with textbook definition of
@@ -175,21 +102,14 @@ Quote:
   bureaucrats, miliraty - and supporters of UNR - political and military figures. Upon further
   examination, the third group might be identified - young males."
   
-3. [[https://tinyurl.com/2p8r3r4y][Вбивство та знищення тіла Романа Шухевича]]. Цитата : "По
-   воспоминаниям бывшего офицера МГБ, участвовавшего в операции по
-   захвату Шухевича, 9 марта 1950 года был получен приказ вывезти тело
-   генерала «Тараса Чупрынки» — Романа Шухевича за пределы Западной
-   Украины и сжечь, а пепел развеять. Именно это и было сделано на
-   левом берегу реки Збруч, напротив города Скала-Подольская."
-  Quote: "According to the former MGB office who participated in caapture of Schyhevych,
+3. [[https://tinyurl.com/2p8r3r4y][Murder of Roman Schyhevych and disposal of his body]]. Quote:
+"According to the former MGB office who participated in caapture of Schyhevych,
   they received an order on March 9th 1950 to transport Schyhevych's body outside of the 
   Western Ukraine, burn it, and dispose the ashes. The order had been carried out east 
   of Zbruch river in the vicinity of Skala-Podolska 
-** Думка британської розвідки
+
 ** The UK intelligence assessment
 
-Шеф британської військової розвідки MI6 написав, що вони мали
-інформацію про заплановані позасудові вбивства ще до вторгнення:
 MI6 chief posted that they had had information about planned extrajudicial 
 executions before the invasion.
 https://twitter.com/ChiefMI6/status/1510629183365517326
