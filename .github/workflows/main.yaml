@@ -1,0 +1,28 @@
+name: "lint changes files"
+
+on:
+  pull_request:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/**'
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup "ruby"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: Setup "markdownlint"
+        run: gem install mdl
+
+      - name: Lint with "markdownlint"
+        run: mdl *.md 
+
+
