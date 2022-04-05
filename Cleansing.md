@@ -1,13 +1,15 @@
-#+TITLE: Про *запланованість* масових вбивств на території України
-#+AUTHOR: Mykola Stryebkov
-#+LATEX_HEADER: \usepackage[utf8]{inputenc}
-#+LATEX_HEADER: \usepackage[T2A]{fontenc}
-#+LATEX_HEADER: \usepackage[english,ukrainian]{babel}
-#+LATEX_HEADER: \usepackage{lcy}
-#+LATEX_HEADER: \usepackage{textcomp}
-#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
+<!-- TITLE: Про *запланованість* масових вбивств на території України
+AUTHOR: Mykola Stryebkov 
+LATEX_HEADER: \usepackage[utf8]{inputenc}
+LATEX_HEADER: \usepackage[T2A]{fontenc}
+LATEX_HEADER: \usepackage[english,ukrainian]{babel}
+LATEX_HEADER: \usepackage{lcy}
+LATEX_HEADER: \usepackage{textcomp}
+LATEX_HEADER: \usepackage[margin=2cm]{geometry}  -->
 
-* Резюме
+# Про *запланованість* масових вбивств на території України
+
+## Резюме
 
 Масові вбивства громадян України силами вторгнення РФ є результатом
 *заздалегідь спланованої операції по фізичному винищенню
@@ -20,9 +22,9 @@
 *Документ буде уточнюватись та доповнюватись по мірі отримання та
 обробки нових даних.*
 
-* Підтвердження
+## Підтвердження
 
-** Одноманітність страт
+### Одноманітність страт
 
 Cхожість та одноманітність страт різних людей у різних населених пунктах
 говорить про їх виконання згідно єдиної методики.
@@ -35,20 +37,21 @@ Cхожість та одноманітність страт різних люд
 *Задача:* перевірити існування відповідної методичної літератури у
 силових структурах РФ.
 
-** ГОСТ Р 42.7.01-2021 на масові захоронення
+### ГОСТ Р 42.7.01-2021 на масові захоронення
 
 Новий ГОСТ РФ про масові захоронення був прийнятий у вересні 21-го
 року та введений в дію 1-го лютого 2022, трохи більше, ніж за 3 тижні
-до початку відкритої війни: [[https://docs.cntd.ru/document/1200180859][НАЦИОНАЛЬНЫЙ СТАНДАРТ РОССИЙСКОЙ ФЕДЕРАЦИИ. ЗАХОРОНЕНИЕ СРОЧНОЕ ТРУПОВ В ВОЕННОЕ И МИРНОЕ ВРЕМЯ]], [[https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859][Web Archive]].
+до початку відкритої війни: [Национальный стандарт Российской федерации. Захоронение срочное трупов в военное и мирное время](https://docs.cntd.ru/document/1200180859) ([Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
 
-Задача: перевірити розміри масового захоронення в Бучі. По їхньому
-стандарту має бути:
-- 20м - довжина по низу
-- 3м - ширина
-- 2.3м - глибина.
+#### Задача: перевірити розміри масового захоронення в Бучі
+
+По їхньому cтандарту має бути:
+- 20м - довжина по низу,
+- 3м - ширина,
+- 2.3м - глибина,
 - 32м - по верху, з урахуванням схилів для виїзду трактора.
 
-** Мобільні крематорії
+### Мобільні крематорії
 
 Призначались для уникнення поховань громадських та суспільних діячів
 України, оскільки публічно відомі місця захоронення з часом створює
@@ -57,7 +60,7 @@ Cхожість та одноманітність страт різних люд
 
 Про підготовку мобільних крематоріїв для вторгнення в Україну армією
 РФ за добу до вторгнення заявив Міністр Оборони Великобританії Ben
-Wallace. Про це написав, зокрема, [[https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][The Telegraph]] ([[https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle/][Web Archive]]). 
+Wallace. Про це написав, зокрема, [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). 
 Правда, пан Walles помилково вирішив, що за їх допомогою армія РФ збирається приховувати
 власні втрати.
 
@@ -66,19 +69,16 @@ Wallace. Про це написав, зокрема, [[https://www.telegraph.co.
 - там, де армія РФ взагалі збирала трупи своїх, був налагоджений їх
   вивіз за межі України;
 - використання мобільних крематоріїв для масового спалення тіл є
-  нераціональним через характеристики [[http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331][заявлені виробником]]:
+  нераціональним через [характеристики заявлені виробником](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
 
-#+BEGIN_QUOTE
-При использовании в ритуальных целях:
+> При использовании в ритуальных целях:
+> - время полной кремации одного объекта: около 1 часа
+> - выгрузка праха автоматизирована
+> - кремуляция
+> - система дополнительной пылеочистки
+> - 15-16 литров дизтоплива или 20 м3 природного газа на кремацию одного объекта
 
-- время полной кремации одного объекта: около 1 часа
-- выгрузка праха автоматизирована
-- кремуляция
-- система дополнительной пылеочистки
-- 15-16 литров дизтоплива или 20 м3 природного газа на кремацию одного объекта
-#+END_QUOTE
-
-** 45000 мішків для трупів
+### 45000 мішків для трупів
 
 Мішки призначались для громадян України.
 
@@ -87,46 +87,40 @@ Wallace. Про це написав, зокрема, [[https://www.telegraph.co.
 безповоротні втрати на рівні 22.5% та повні втрати на рівні 90% від
 загальної чисельності угруповання, що є нереальним.
 
-** Державна пропаганда в РФ
+### Державна пропаганда в РФ
 
 У приведених нижче публічних матеріалах присутні заклики до примусового
 поділу/переділу території України, а також до вбивств громадян
 України.
 
-- [[http://kremlin.ru/events/president/news/66181][Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года]],  [[https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181][Web Archive]]
-- [[https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html]["Туманное будущее похабного мира", 15 февраля 2022]],  [[https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html][Web Archive]]
-- [[https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html]["Куда делся хаос? Распаковка стабильности", 20 ноября 2021]],   [[https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html][Web Archive]]
-- [[https://ria.ru/20220403/ukraina-1781469605.html]["Что Россия должна сделать с Украиной", 03.04.2022]],   [[https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html][Web Archive]]
-- [[https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s][Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016]]
+- [Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года](http://kremlin.ru/events/president/news/66181) ([Web Archive](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181)),
+- ["Туманное будущее похабного мира", 15 февраля 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ([Web Archive](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html)),
+- ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
+- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)),
+- [Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
-** Історичні дані щодо modus operandi росіян в Україні
+### Історичні дані щодо modus operandi росіян в Україні
 
 Події останніх 8 років демонструють незмінність modus operandi росіян
 в Україні протягом останнього сторіччя:
 
-1. [[https://tinyurl.com/d2s3mkbh][Створення "народних республік" на території України у 1917-1918 роках]].
-2. [[https://www.istpravda.com.ua/articles/2019/03/12/153809/][Масові вбивства киян військами Мурав'йова]], [[https://tinyurl.com/bdf9ktxh][червоний терор]]. Цитата:
-   "Вчинений більшовиками у Києві злочин – розстріл беззахисних жертв
-   не за те, що вони скоїли, а за те, ким вони були, – відповідає
-   тому, що в літературі називається геноцидною стратегією: наміром
-   знищити конкретну групу людей. У нашому випадку йшлося про дві такі
-   групи: представників "старого порядку" – аристократії, чиновників,
-   генералітету, офіцерів – та прибічників УНР – політиків та
-   військовиків.  При детальнішому аналізі даних метрик, можливо,
-   будуть підстави виокремити третю групу – молодих чоловіків."
-3. [[https://tinyurl.com/2p8r3r4y][Вбивство та знищення тіла Романа Шухевича]]. Цитата : "По
-   воспоминаниям бывшего офицера МГБ, участвовавшего в операции по
-   захвату Шухевича, 9 марта 1950 года был получен приказ вывезти тело
-   генерала «Тараса Чупрынки» — Романа Шухевича за пределы Западной
-   Украины и сжечь, а пепел развеять. Именно это и было сделано на
-   левом берегу реки Збруч, напротив города Скала-Подольская."
+1. [Створення "народних республік" на території України у 1917-1918 роках](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2) ([Web Archive](https://web.archive.org/web/20220315084250/https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2)).
+2. [Масові вбивства киян військами Мурав'йова](https://www.istpravda.com.ua/articles/2019/03/12/153809) ([Web Archive](https://web.archive.org/web/20210807111953/https://www.istpravda.com.ua/articles/2019/03/12/153809/)), [Червоний терор](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ([Web Archive](https://web.archive.org/web/20220331221844/https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80)). 
+   > "Вчинений більшовиками у Києві злочин – розстріл беззахисних жертв не за те, що вони скоїли, а за те, ким вони були, 
+   > – відповідає тому, що в літературі називається геноцидною стратегією: наміром знищити конкретну групу людей. 
+   > У нашому випадку йшлося про дві такі групи: представників "старого порядку" – аристократії, чиновників, генералітету, 
+   > офіцерів – та прибічників УНР – політиків та військовиків. При детальнішому аналізі даних метрик, можливо, будуть 
+   > підстави виокремити третю групу – молодих чоловіків."
+3. [Вбивство та знищення тіла Романа Шухевича](https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C) ([Web Archive](https://web.archive.org/web/20220401020653/https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C)). 
+   > "По воспоминаниям бывшего офицера МГБ, участвовавшего в операции по захвату Шухевича, 9 марта 1950 года был получен 
+   > приказ вывезти тело генерала «Тараса Чупрынки» — Романа Шухевича за пределы Западной Украины и сжечь, а пепел развеять. 
+   > Именно это и было сделано на левом берегу реки Збруч, напротив города Скала-Подольская."
 
-** Думка британської розвідки
+### Думка британської розвідки
 
 Шеф британської військової розвідки MI6 написав, що вони мали
 інформацію про заплановані позасудові вбивства ще до вторгнення:
-#+BEGIN_QUOTE
-We knew Putin’s invasion plans included summary executions by his military and intelligence services. 
-The reports of execution-style killings of civilians emerging from liberated areas are horrifying and chilling.
-#+END_QUOTE
+> We knew Putin’s invasion plans included summary executions by his military and intelligence services. 
+> The reports of execution-style killings of civilians emerging from liberated areas are horrifying and chilling.
+
 https://twitter.com/ChiefMI6/status/1510629183365517326
