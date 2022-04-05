@@ -1,6 +1,6 @@
 # Про запланованість масових вбивств на території України
 
-## [Основний документ](https://github.com/zbroyar/mass_killings/blob/master/Cleansing.org)
+## [Основний документ](https://github.com/zbroyar/mass_killings/blob/master/Cleansing.md)
 
 ## PDF для поширення
 
