@@ -1,0 +1,44 @@
+name: "lint changes files"
+
+on:
+  pull_request:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/**'
+  push:
+    branches:
+      - master
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup "ruby"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: Setup "markdownlint"
+        run: gem install mdl
+
+      - name: Lint with "markdownlint"
+        # Подавити перевірку наступних правил:
+        #
+        # - MD001 Header levels should only increment by one level at a time,
+        #   тому що за допомогою #### ми виділяем задачі
+        #
+        # - MD013 Line length, повідомлення про максимальну довжину строки в 80
+        #   знаків за виключенням лінків. Можна проігнорувати, тому що в іншому
+        #   випадку буде сильно мішати всім тим, хто допомагатиме вносити зміни
+        #
+        # - MD026 Trailing punctuation in header, тому що ми використовуємо
+        #   пунктурацію в заголовках (напр. ".", "," або ":"). Знову, тому що
+        #   деякі заголовки ми використовужмо для того, щоб виділити задачу
+        #
+        # Значення правил дивитися тут:
+        # https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md
+        run: mdl -r ~MD001,~MD013,~MD026 *.md
