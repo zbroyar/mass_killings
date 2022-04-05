@@ -18,4 +18,4 @@
 - [![gitlocalized ](https://gitlocalize.com/repo/7265/ru/badge.svg)](https://gitlocalize.com/repo/7265/ru?utm_source=badge) Російська
 - [![gitlocalized ](https://gitlocalize.com/repo/7265/zh/badge.svg)](https://gitlocalize.com/repo/7265/zh?utm_source=badge) Китайська
 
-Якщо ви можете допомогти з перекладами -- долучайтеся.
+Якщо ви можете допомогти з перекладами -- долучайтеся. [Тут є інструкції для перекладачів](translations.md).
