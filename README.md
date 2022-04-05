@@ -2,10 +2,6 @@
 
 ## [Основний документ](https://github.com/zbroyar/mass_killings/blob/master/Cleansing.md)
 
-## PDF для поширення
-
-[Google Drive](https://drive.google.com/file/d/1LEqM_F0_gz-BEfHpRNQ7JMoRoUKNCDst/view?usp=sharing)
-
 ## Стан перекладу іншими мовами
 
 Загальний відсоток готовності всіх перекладів: [![gitlocalized ](https://gitlocalize.com/repo/7265/whole_project/badge.svg)](https://gitlocalize.com/repo/7265/whole_project?utm_source=badge)
