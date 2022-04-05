@@ -4,7 +4,7 @@
 
 ## PDF для поширення
 
-...
+[Google Drive](https://drive.google.com/file/d/1LEqM_F0_gz-BEfHpRNQ7JMoRoUKNCDst/view?usp=sharing)
 
 ## Стан перекладу іншими мовами
 
