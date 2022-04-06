@@ -97,7 +97,7 @@ Cхожість та одноманітність страт різних люд
 - ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)
 ([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
 - ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html)
-([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)),
+([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)), ([english translation](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64))
 - [Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
 ### Історичні дані щодо modus operandi росіян в Україні
