@@ -71,7 +71,7 @@ Dowodem na istotność tezy o tym, że krematoria przeznaczone były dla obywate
 
 Worki na zwłoki, przygotowane przez armię rosyjską do celów inwazji na Ukrainę, dedykowane były dla obywateli Ukrainy.
 
-W przeciwnym wypadku, jeżeli worki te były dedykowane dla żołnierzy wojsk rosyjskich, oznaczałoby to, że rosjanie z góry zaplanowali własne nieodwracalne straty na poziomie <code>45,000/200,000 x 100% = 22.5%</code>, zaś całkowite straty (zabitych plus rannych) we własnym wojsku na poziomie 90% całkowitej ilości własnych wojsk.
+W przeciwnym wypadku, jeżeli worki te były dedykowane dla żołnierzy wojsk rosyjskich, oznaczałoby to, że rosjanie z góry zaplanowali własne nieodwracalne straty na poziomie `45,000/200,000 x 100% = 22.5%`, zaś całkowite straty (zabitych plus rannych) we własnym wojsku na poziomie 90% całkowitej ilości własnych wojsk.
 
 Ostatnia liczba wynika z uogólnionego spostrzeżenia statystycznego: liczba zabitych żołnierzy w walkach zazwyczaj stanowi ok. 25% od całkowitej ilości wojsk ponoszących straty. Wychodząc z powyższego stwierdzenia, możemy zgrubnie oszacować straty zakładane i akceptowalne przez dowodzenie wojsk Federacji Rosyjskiej na etapie planowania inwazji na Ukrainę: `22.5% x 4 = 90%`.
 
@@ -92,7 +92,7 @@ W podanych poniżej źródłach publicznych znajdziemy upomnienia i/lub wezwania
 Wydarzenia sprzed ostatnich 8 lat demonstrują identyczność modus operandi ruskich do owego z ubiegłego stulecia:
 
 1. [Stworzenie rozdrobnionych tzw. "Republik ludowych" na terenie Ukrainy w latach 1917-1918](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2) ([Web Archive](https://web.archive.org/web/20220315084250/https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2)).
-2. [Zagłady masowe mieszkańców Kijowa przez wojska Murawjowa](https://www.istpravda.com.ua/articles/2019/03/12/153809) ([Web Archive](https://web.archive.org/web/20210807111953/https://www.istpravda.com.ua/articles/2019/03/12/153809/)), [Terror czerwony](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ([Web Archive](https://web.archive.org/web/20220331221844/https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80)).
+1. [Zagłady masowe mieszkańców Kijowa przez wojska Murawjowa](https://www.istpravda.com.ua/articles/2019/03/12/153809) ([Web Archive](https://web.archive.org/web/20210807111953/https://www.istpravda.com.ua/articles/2019/03/12/153809/)), [Terror czerwony](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ([Web Archive](https://web.archive.org/web/20220331221844/https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80)).
 
 > "Przestępstwo dokonane przez Bolszewików w Kijowie - zniszczenie ofiar bezbronnych nie za czynności dokonane przez nich, ale za ich należność do pewnych grup socjalnych - odpowiada literaturowej definicji zjawiska nazywanego "genocydem" - zamiarem mordu ludzi należących do pewnych grup socjalnych. W naszym przypadku odmieniamy następujące dwie grupy: przedstawicieli "starego porządku" - czyli  arystokracja, urzędnicy, generałowie i oficerowie - oraz zwolenników UNR (Ukraińska Republika Ludowa, 1917-1920) - polityków i żołdaków. Po dokładnym przeanalizowaniu danych możliwym staje się wydzielenie osobnej, trzeciej grupy ofiar - młodych mężczyzn."
 
@@ -102,11 +102,9 @@ Wydarzenia sprzed ostatnich 8 lat demonstrują identyczność modus operandi rus
 
 ### Opinia wywiadu Brytyjskiego
 
-Szef brytyjskiej służby wywiadu zagranicznego MI6 jeszcze przed inwazją Rosji na Ukrainę napisał w Twitterze, iż MI6 posiada informacje o zaplanowanych pozasądowych mordach ze strony Armii Rosyjskiej (tłum. z ang.):
+Szef brytyjskiej służby wywiadu zagranicznego MI6 jeszcze przed inwazją Rosji na Ukrainę napisał w [Twitterze](https://twitter.com/ChiefMI6/status/1510629183365517326), iż MI6 posiada informacje o zaplanowanych pozasądowych mordach ze strony Armii Rosyjskiej (tłum. z ang.):
 
 > Wiedzieliśmy że plan inwazji Putina zawierał w sobie masowe zagłady ze strony (jego) wojsk oraz służb specjalnych. Doniesienia o egzekucjach cywili pochodzące ze zwolnionych obszarów Ukrainy są przerażające i mrożące krew.
-
-https://twitter.com/ChiefMI6/status/1510629183365517326
 
 [^1]: Modus operandi (łac. "sposób działania", lm. "modi operandi") -- zwrot z łacinicy; często stosuje się w jurysprudencji do opisu charakterystycznego sposobu popełniania przestępstwa. W kontekście kryminalnym modus operandi stosuje się do opisu profilu przestępcy, w którym znajdują się kluczowe czynniki jego psychologii.
 
