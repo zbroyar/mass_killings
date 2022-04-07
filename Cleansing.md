@@ -90,10 +90,14 @@ Cхожість та одноманітність страт різних люд
 У приведених нижче публічних матеріалах присутні заклики до примусового поділу/переділу території України, а також до
 вбивств громадян України.
 
-- [Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года](http://kremlin.ru/events/president/news/66181) ([Web Archive](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181)),
-- ["Туманное будущее похабного мира", 15 февраля 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ([Web Archive](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html)),
-- ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
-- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)),
+- [Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года](http://kremlin.ru/events/president/news/66181)
+([Web Archive](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181)),
+- ["Туманное будущее похабного мира", 15 февраля 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) 
+([Web Archive](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html)),
+- ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)
+([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
+- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html)
+([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)), ([english translation](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64))
 - [Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
 ### Історичні дані щодо modus operandi росіян в Україні
