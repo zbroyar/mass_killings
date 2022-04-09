@@ -149,7 +149,7 @@ Cхожість та одноманітність страт різних люд
 > We knew Putin’s invasion plans included summary executions by his military and intelligence services.
 > The reports of execution-style killings of civilians emerging from liberated areas are horrifying and chilling.
 
-<https://twitter.com/ChiefMI6/status/1510629183365517326>F
+<https://twitter.com/ChiefMI6/status/1510629183365517326>
 
 [^1]: Modus operandi -- фраза з латини, приблизно означає "метод дії". У множині modi operandi («методи дії»).
 Ця фраза використовується в юриспруденції для опису способу скоєння злочину. У кримінальному значенні modus operandi
