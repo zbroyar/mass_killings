@@ -13,5 +13,4 @@
 | [RO Română](./ro/Cleansing.md)   | [![gitlocalized ](https://gitlocalize.com/repo/7294/ro/badge.svg)](https://gitlocalize.com/repo/7294/ro?utm_source=badge) | [AdvocatL](https://github.com/AdvocatL)    |
 | [RU Русский](./ru/Cleansing.md)  | [![gitlocalized ](https://gitlocalize.com/repo/7294/ru/badge.svg)](https://gitlocalize.com/repo/7294/ru?utm_source=badge) | [judaew](https://github.com/judaew)      |
 
-
 Якщо ви можете допомогти з перекладами -- долучайтеся. [Тут є інструкції для перекладачів](translations.md).
