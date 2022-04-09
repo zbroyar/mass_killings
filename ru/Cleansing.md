@@ -29,7 +29,7 @@
 
 ### Массовые захоронения
 
-В РФ новый ГОСТ Р 42.7.01-2021 о массовых захоронениях был принят в сентябре 21-го года и введен в действие 1-го февраля 2022 года, не более, чем за 3 недели до начала открытой войны: [Национальный стандарт Российской федерации. Захоронение срочных трупов в военное и мирное время](https://docs.cntd.ru/document/1200180859) ( [Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859) ).
+В РФ новый ГОСТ Р 42.7.01-2021 о массовых захоронениях был принят в сентябре 21-го года и введен в действие 1-го февраля 2022 года, не более, чем за 3 недели до начала открытой войны: [Национальный стандарт Российской федерации. Захоронение срочных трупов в военное и мирное время](https://docs.cntd.ru/document/1200180859) ([Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
 
 По стандарту РФ яма для массового захоронения должна иметь следующие размеры:
 
@@ -66,12 +66,12 @@
 
 Предназначались для избежание захоронений публичных и общественных деятелей Украины, поскольку публично известные места захоронения со временем создают "места паломничества" (modus operandi аналогичен убийству Романа Шухевича, [см. ниже](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84)).
 
-О подготовке мобильных крематориев для вторжения в Украину армией РФ за сутки до вторжения заявил Министр Обороны Великобритании Ben Wallace. Об этом написал, в частности, [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). Правда, господин Walles по ошибке решил, что с их помощью армия РФ собирается скрывать свои потери.
+О подготовке мобильных крематориев для вторжения в Украину армией РФ за сутки до вторжения заявил Министр Обороны Великобритании Ben Wallace. Об этом написал, в частности, [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). Правда, господин Wallas по ошибке решил, что с их помощью армия РФ собирается скрывать свои потери.
 
 Подтверждениями тезиса о том, что крематории предназначались не для русских солдат, могут служить следующие факты:
 
 - там, где армия РФ вообще собирала трупы своих, был налажен их вывоз за пределы Украины;
-- использование мобильных крематориев для массового сожжения тел является нерациональным из-за [характеристик заявленных производителем](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ( [Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ):
+- использование мобильных крематориев для массового сожжения тел нерационально из-за [характеристик, заявленых производителем](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
 
 > При использовании в ритуальных целях:
 >
@@ -98,9 +98,9 @@
 - [Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года](http://kremlin.ru/events/president/news/66181) ([Web Archive](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181)),
 - ["Туманное будущее пошлого мира", 15 февраля 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ([Web Archive](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html)),
 - ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
-- ["Наступивший России и нового мира"](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html) , очень интересный случай: статья была автоматически опубликована на ria.ru 26.02 в 8:00 и удалена с сайта в течение нескольких часов, что является подтверждением уверенности военно-политического руководства РФ в захвате Киева за двое суток.
-- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ( [Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html) ), ( [english translation](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64) )
-- [Фрагмент выступления М. Хазина на заседании клуба «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s) .
+- ["Наступление России и нового мира"](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html), очень интересный случай: статья была автоматически опубликована на ria.ru 26.02 в 8:00 и удалена с сайта в течение нескольких часов, что является подтверждением уверенности военно-политического руководства РФ в захвате Киева за двое суток.
+- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)), ([english translation](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64))
+- [Фрагмент выступления М. Хазина на заседании клуба «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
 ### Исторические данные о modus operandi россиян в Украине
 
@@ -118,7 +118,7 @@
 
 > We knew Putin's invasion plans included summary executions by его military and intelligence services. Репортажи execution-style killings civilians emerging from liberated areas horrifying and chilling.
 
-[https://twitter.com/ChiefMI6/status/1510629183365517326](https://twitter.com/ChiefMI6/status/1510629183365517326) F
+[https://twitter.com/ChiefMI6/status/1510629183365517326](https://twitter.com/ChiefMI6/status/1510629183365517326)
 
 [^1]: Modus operandi – фраза из латыни, примерно означает "метод действия". Во множестве modi operandi («методы действия»). Эта фраза используется в юриспруденции для описания способа совершения преступления. В криминальном смысле modus operandi может быть использован при определении профиля преступника, где могут быть найдены ключи к психологии преступника.
 
