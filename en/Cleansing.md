@@ -17,7 +17,7 @@ The similarity and uniformity of executions point to same methodology. Different
 A few patterns can be found among the mass killings of civilians in the Kyiv region:
 
 - the vast majority are military-age males;
-- with their hands tied behind their backs and shot in the back of their heads;
+- with their hands tied behind their backs and shot in the back of their heads.
 
 Given the relative humanity of the method of execution (the brain is destroyed before a person can feel the pain), the SBU was consulted on the existence of methodological literature that can describe it.
 
