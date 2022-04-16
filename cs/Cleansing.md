@@ -4,7 +4,7 @@
 
 Masové zabíjení ukrajinských občanů ruskými invazními silami je výsledkem *předem plánované operace fyzického vyhlazení sociálně aktivní vrstvy ukrajinské společnosti* .
 
-"Зарядженість" росіян на такі соціальні чистки є, зокрема, наслідком багаторічної державної пропаганди у РФ та незмінності їх modus operandi[^1] в Україні [(див. нижче)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
+„Poplatek“ Rusů za takové sociální čistky je zejména výsledkem mnohaleté státní propagandy v Rusku a neměnnosti jejich modu operandi [^ 1] na Ukrajině [(viz níže)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84) .
 
 ⚠️ *Dokument bude aktualizován a doplňován tak, jak budou přijímána a zpracovávána nová data.*
 
@@ -19,107 +19,109 @@ Mezi masovým zabíjením civilistů v oblasti Kyjeva tak jasně vyčnívají za
 - většinou muži vojenského věku,
 - s rukama spoutanýma za zády a dírou po kulce vzadu na hlavě.
 
-Враховуючи відносну гуманність способу страти (мозок руйнується до того, як людина встигає відчути біль) було проведено консультації з СБУ щодо існування методичної літератури, яка може його описувати.
+Vzhledem k relativní lidskosti způsobu popravy (mozek je zničen dříve, než člověk ucítí bolest), byla SBU konzultována ohledně existence metodologické literatury, která to může popsat.
 
-За їх словами, відповідна література часів СРСР може існувати у закритих архівах МВС. Продовжуємо пошук.
+Podle nich může příslušná literatura sovětské éry existovat v uzavřených archivech ministerstva vnitra. Pokračujeme v hledání.
 
 ####
 
-[⚠️ Задача: перевірити існування відповідної методичної літератури у силових структурах РФ](https://github.com/zbroyar/mass_killings/issues/15)
+[⚠️ Úkol: prověřit existenci příslušné metodické literatury v orgánech činných v trestním řízení Ruské federace](https://github.com/zbroyar/mass_killings/issues/15)
 
-### Масові захоронення
+### Hromadné pohřby
 
-У РФ новий ГОСТ Р 42.7.01-2021 про масові захоронення був прийнятий у вересні 21-го року та введений в дію 1-го лютого 2022, трохи більше, ніж за 3 тижні до початку відкритої війни: [Национальный стандарт Российской федерации. Захоронение срочное трупов в военное и мирное время](https://docs.cntd.ru/document/1200180859) ([Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
+V Rusku byl nový GOST R 42.7.01-2021 o hromadném pohřbívání přijat 21. září a vstoupil v platnost 1. února 2022, o něco více než 3 týdny před začátkem otevřené války: [Národní standard Ruské federace . Naléhavé pohřbívání mrtvol v době války a míru](https://docs.cntd.ru/document/1200180859) ( [Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859) ).
 
-По стандарту РФ яма для масового захоронення повинна мати наступні розміри:
+Podle standardu Ruské federace by jáma pro hromadné pohřbívání měla mít následující velikosti:
 
-- 20м - довжина по низу,
-- 3м - ширина,
+- 20m - délka dole,
+- 3m - šířka,
 - 2.3м - глибина,
-- 32м - по верху, з урахуванням схилів для виїзду трактора.
+- 32 m - nahoře, s ohledem na sklony pro odjezd traktoru.
 
-#### Масове поховання в Бучі
+#### Hromadný pohřeb v Bucha
 
-Координати: 50.548338967408654, 30.205741390181334
+Souřadnice: 50,548338967408654, 30,205741390181334
 
-Довжина - 13.15м, ширина змінна - від 3.2м до 2.4м. Початкову глибину можна буде встановити тільки після проведення ексгумації, наразі яма наповнена тілами.
+Délka - 13,15 m, variabilní šířka - od 3,2 m do 2,4 m. Počáteční hloubku lze stanovit až po exhumaci, nyní je jáma naplněna těly.
 
-#### Масове поховання у Андріївці
+#### Hromadný pohřeb v Andriyivce
 
-Координати: 50.5502094, 29.8330253
+Souřadnice: 50.5502094, 29.8330253
 
-Довжина - 10.5 метра, ширина - 4м, глибина - 4м. Тіл у ямі нема. Інформацію про те, що яма призначення саме для трупів жителів села власниця подвір'я отримала від солдатів, які копали яму.
+Délka - 10,5 m, šířka - 4 m, hloubka - 4 m. V jámě nejsou žádná těla. Majitel dvora dostal od vojáků, kteří jámu kopali, informaci, že jáma je určena pro mrtvoly vesničanů.
 
-У селі протягом окупації зникло 37 людей. Станом на 08.03.2022 було знайдено або відомі місця поховання 9 вбитих. З них троє були вбиті характерним способом: руки зв'язані за спиною та куля у потилицю.
+Za okupace v obci zmizelo 37 lidí. K 8. březnu 2022 byla nalezena nebo jsou známa pohřebiště 9 zabitých. Tři z nich byli zabiti charakteristickým způsobem: ruce svázané za zády a kulka do zátylku.
 
-### Cписки
+### Seznamy
 
-Росіяни складали списки українців на знищення та ізоляцію.
+Rusové sestavili seznamy Ukrajinců ke zničení a izolaci.
 
-За кілька днів до вторгнення представник США у Женевському офісі ООН написав [листа](https://www.washingtonpost.com/context/read-u-s-letter-to-the-u-n-alleging-russia-is-planning-human-rights-abuses-in-ukraine/93a8d6a1-5b44-4ae8-89e5-cd5d328dd150/?itid=lk_inline_manual_4) до OHCHR (головний офіс ООН з прав людини), у якому висловив занепокоєння з приводу відповідної інформації.
+Několik dní před invazí americký zástupce v Ženevské kanceláři OSN napsal [dopis](https://www.washingtonpost.com/context/read-u-s-letter-to-the-u-n-alleging-russia-is-planning-human-rights-abuses-in-ukraine/93a8d6a1-5b44-4ae8-89e5-cd5d328dd150/?itid=lk_inline_manual_4) OHCHR (Ústředí OSN pro lidská práva), ve kterém vyjádřil znepokojení nad těmito informacemi.
 
 ####
 
-[⚠️ Задача: отримати від американської сторони додаткову інформацію про списки та критерії їх складання](https://github.com/zbroyar/mass_killings/issues/17)
+[⚠️ Cíl: získat od americké strany další informace o seznamech a kritériích pro jejich sestavení](https://github.com/zbroyar/mass_killings/issues/17)
 
-### Мобільні крематорії
+### Mobilní krematoria
 
-Призначались для уникнення поховань громадських та суспільних діячів України, оскільки публічно відомі місця захоронення з часом створює "місця паломництва" (modus operandi аналогічний до вбивства Романа Шухевича, [див. нижче](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84)).
+Účelem je vyhnout se pohřbům veřejných a veřejných osobností Ukrajiny, protože veřejně známá pohřebiště nakonec vytvářejí „poutní místa“ (modus operandi podobný vraždě Romana Shukhevyche, [viz níže](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84) ).
 
-Про підготовку мобільних крематоріїв для вторгнення в Україну армією РФ за добу до вторгнення заявив Міністр Оборони Великобританії Ben Wallace. Про це написав, зокрема, [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). Правда, пан Walles помилково вирішив, що за їх допомогою армія РФ збирається приховувати власні втрати.
+Přípravu mobilních krematorií na invazi ruské armády na Ukrajinu den před invazí oznámil ministr obrany Spojeného království Ben Wallace. To napsal zejména [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ( [Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ). Pan Walles se však mylně rozhodl, že s jejich pomocí bude ruská armáda skrývat své vlastní ztráty.
 
-Підтвердженнями тези про те, що крематорії призначались не для російських солдатів можуть слугувати наступні факти:
+Tezi, že krematoria nebyla určena pro ruské vojáky, mohou potvrdit následující skutečnosti:
 
-- там, де армія РФ взагалі збирала трупи своїх, був налагоджений їх вивіз за межі України;
-- використання мобільних крематоріїв для масового спалення тіл є нераціональним через [характеристики заявлені виробником](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
+- tam, kde armáda Ruské federace zpravidla shromažďovala své mrtvoly, byl zajištěn jejich vývoz mimo Ukrajinu;
+- použití mobilních krematorií pro hromadné kremace je vzhledem k [vlastnostem uváděným výrobcem](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) iracionální ( [Web Archiv](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ):
 
-> При использовании в ритуальных целях:
+> Při použití pro rituální účely:
 >
-> - время полной кремации одного объекта: около 1 часа
+> - doba úplného zpopelnění jednoho objektu: cca 1 hodina
 > - выгрузка праха автоматизирована
-> - кремуляция
-> - система дополнительной пылеочистки
-> - 15-16 литров дизтоплива или 20 м3 природного газа на кремацию одного объекта
+> - kremace
+> - přídavný systém čištění prachu
+> - 15-16 litrů nafty nebo 20 m3 zemního plynu na kremaci jednoho objektu
 
-### 45000 мішків для трупів
+### 45 000 pytlů na mrtvoly
 
-Мішки призначались для громадян України.
+Tašky byly určeny pro občany Ukrajiny.
 
-Якби мішки призначались для трупів військовослужбовців РФ, то це б означало, що росіяни, зібравши 200 тисяч солдатів для вторгнення, запланували безповоротні втрати на рівні 22.5% та сумарні втрати (разом з пораненими) на рівні 90% від загальної чисельності угруповання, що є нереальним[^2].
+Pokud by byly pytle určeny pro mrtvoly ruských vojáků, znamenalo by to, že Rusové po shromáždění 200 000 vojáků pro invazi plánovali nenapravitelné ztráty 22,5 % a celkové ztráty (včetně raněných) 90 % z celkového počtu skupin. , což je nereálné.[^ 2].
 
-Тобто, якщо мішки для трупів призначаються для російських солдат, то очікуваний відсоток вбитих: `45000/200000 x 100% = 22.5%`. Статистика говорить, що поранених зазвичай втричі більше, ніж вбитих, тобто кількість поранених: `3 х 22.5% = 67.5%`. А отже сумарні втрати (вбиті та поранені): `22.5% + 67.5% = 90%`.
+To znamená, že pokud jsou pytle na mrtvoly určeny pro ruské vojáky, předpokládané procento zabitých: `45000/200000 x 100% = 22.5%` . Statistiky ukazují, že raněných je obvykle třikrát více než zabitých, tedy počet raněných: `3 х 22.5% = 67.5%` . Celkové ztráty (zabití a zranění): `22.5% + 67.5% = 90%` .
 
-Здорова логіка підказує, що починати загарбницьку війну і розраховувати на втрати на рівні 90% особового складу - це просто безглуздо.
+Zdravý rozum velí, že rozpoutat útočnou válku a počítat se ztrátami na úrovni 90 % personálu je prostě nesmyslné.
 
-### Державна пропаганда у РФ
+### Státní propaganda v Rusku
 
-У приведених нижче публічних матеріалах присутні заклики до примусового поділу/переділу території України, а також до вбивств громадян України.
+Následující veřejné materiály vyzývají k nucenému rozdělení / přerozdělení území Ukrajiny a také k zabíjení ukrajinských občanů.
 
-- [Статья Владимира Путина "Об историческом единстве русских и украинцев", 12 июля 2021 года](http://kremlin.ru/events/president/news/66181) ([Web Archive](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181)),
-- ["Туманное будущее похабного мира", 15 февраля 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ([Web Archive](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html)),
-- ["Куда делся хаос? Распаковка стабильности", 20 ноября 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ([Web Archive](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
-- ["Наступлений России и нового мира"](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html), дуже цікавий випадок: стаття була автоматично опублікована на ria.ru 26.02 о 8:00 і видалена з сайту протягом кількох годин, що є підтвердженням впевненності військово-політичного керівництва РФ у захопленні Києва за дві доби.
-- ["Что Россия должна сделать с Украиной", 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ([Web Archive](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)), ([english translation](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64))
-- [Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
+- [Článek Vladimíra Putina „O historické jednotě Rusů a Ukrajinců“, 12. července 2021](http://kremlin.ru/events/president/news/66181) ( [Web Archiv](https://web.archive.org/web/20220331143857/http://kremlin.ru/events/president/news/66181) ),
+- ["The Foggy Future of the Obscene World", 15. února 2022](https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ( [Webový archiv](https://web.archive.org/web/20220324051406/https://actualcomment.ru/tumannoe-budushchee-pokhabnogo-mira-2202150925.html) ),
+- ["Kam zmizel ten chaos? Stabilita rozbalování", 20. listopadu 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ( [Webový archiv](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ),
+- [„Útok Ruska a Nového světa“](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html) je velmi zajímavý případ: článek byl automaticky publikován na ria.ru 26. února v 8:00 a během několika hodin odstraněn z webu, což potvrzuje důvěru ruské armády vedení při dobytí Kyjeva za dva dny.
+- [„Co by Rusko mělo udělat s Ukrajinou“, 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ( [Webový archiv](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html) ), ( [anglický překlad](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64) )
+- [Fragment projevu M. Khazina na jednání klubu "Ruský výhled" 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s) .
 
-### Історичні дані щодо modus operandi росіян в Україні
+### Historické údaje o modu operandi Rusů na Ukrajině
 
-Події останніх 8 років демонструють незмінність modus operandi росіян в Україні протягом останнього сторіччя:
+Události posledních 8 let ukazují neměnnost modu operandi Rusů na Ukrajině za poslední století:
 
-1. [Створення "народних республік" на території України у 1917-1918 роках](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2) ([Web Archive](https://web.archive.org/web/20220315084250/https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2)).
-2. [Масові вбивства киян військами Муравйова](https://www.istpravda.com.ua/articles/2019/03/12/153809) ([Web Archive](https://web.archive.org/web/20210807111953/https://www.istpravda.com.ua/articles/2019/03/12/153809/)), [Червоний терор](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ([Web Archive](https://web.archive.org/web/20220331221844/https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80)).
-    > "Вчинений більшовиками у Києві злочин – розстріл беззахисних жертв не за те, що вони скоїли, а за те, ким вони були, – відповідає тому, що в літературі називається геноцидною стратегією: наміром знищити конкретну групу людей. У нашому випадку йшлося про дві такі групи: представників "старого порядку" – аристократії, чиновників, генералітету, офіцерів – та прибічників УНР – політиків та військовиків. При детальнішому аналізі даних метрик, можливо, будуть підстави виокремити третю групу – молодих чоловіків."
-3. [Вбивство та знищення тіла Романа Шухевича](https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C) ([Web Archive](https://web.archive.org/web/20220401020653/https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C)).
-    > "По воспоминаниям бывшего офицера МГБ, участвовавшего в операции по захвату Шухевича, 9 марта 1950 года был получен приказ вывезти тело генерала «Тараса Чупрынки» — Романа Шухевича за пределы Западной Украины и сжечь, а пепел развеять. Именно это и было сделано на левом берегу реки Збруч, напротив города Скала-Подольская."
+1. [Vznik "lidových republik" na území Ukrajiny v letech 1917-1918](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2) ( [Web Archiv](https://web.archive.org/web/20220315084250/https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0_(1917%E2%80%941921)#%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF_%D0%B1%D1%96%D0%BB%D1%8C%D1%88%D0%BE%D0%B2%D0%B8%D0%BA%D1%96%D0%B2) ).
+2. [Hromadné zabíjení Kyjevanů Muravyovovými jednotkami](https://www.istpravda.com.ua/articles/2019/03/12/153809) ( [Webový archiv](https://web.archive.org/web/20210807111953/https://www.istpravda.com.ua/articles/2019/03/12/153809/) ), [Rudý teror](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ( [Webový archiv](https://web.archive.org/web/20220331221844/https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0_(1918)#%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80) ).
+    > "Zločin spáchaný bolševiky v Kyjevě - popravy bezbranných obětí ne za to, co spáchaly, ale za to, kým byly - odpovídá tomu, čemu literatura říká genocidní strategie: záměru zničit specifickou skupinu lidí. V našem případě Existovaly dvě takové skupiny: zástupci „starých pořádků“ – aristokracie, úředníci, generálové, důstojníci – a příznivci UPR – politici a vojáci. Podrobnější analýza těchto metrik může být důvodem k vyčlenění třetí skupiny - mladí muži. "
+3. [Vražda a zničení těla Romana Shukhevycha](https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C) ( [Web Archiv](https://web.archive.org/web/20220401020653/https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%85%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87#%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C) ).
+    > Podle vzpomínek bývalého důstojníka MGB, který se účastnil operace na dopadení Šucheviče, byl 9. března 1950 přijat rozkaz odvézt tělo generála Tarase Chuprynky, Romana Šucheviče, ze západní Ukrajiny a spálit a rozehnat popel. Řeka Zbruch, naproti městu Skala-Podolskaja."
 
-### Думка британської розвідки
+### Stanovisko britské rozvědky
 
-Шеф британської військової розвідки MI6 написав, що вони мали інформацію про заплановані позасудові вбивства ще до вторгнення:
+Šéf britské vojenské rozvědky MI6 napsal, že měli informace o plánovaných mimosoudních vraždách před invazí:
 
-> We knew Putin’s invasion plans included summary executions by his military and intelligence services. The reports of execution-style killings of civilians emerging from liberated areas are horrifying and chilling.
+> Věděli jsme, že Putinovy plány invaze zahrnovaly souhrnné popravy jeho vojenských a zpravodajských služeb. Zprávy o zabíjení civilistů pocházejících z osvobozených oblastí ve stylu poprav jsou děsivé a mrazivé.
 
 [https://twitter.com/ChiefMI6/status/1510629183365517326](https://twitter.com/ChiefMI6/status/1510629183365517326)
 
-[^1]: Modus operandi -- фраза з латини, приблизно означає "метод дії". У множині modi operandi («методи дії»). Ця фраза використовується в юриспруденції для опису способу скоєння злочину. У кримінальному значенні modus operandi може бути використаний при визначенні профілю злочинця, де можуть бути знайдені ключі до психології злочинця.
+[^ 1]: Modus operandi – fráze z latiny, zhruba znamenající „způsob jednání“. V množném čísle modi operandi („způsoby jednání“). Tato fráze se v jurisprudenci používá k popisu způsobu, jakým byl trestný čin spáchán. V trestněprávním smyslu lze pro zjištění profilu pachatele použít modus operandi, kde lze nalézt klíče k psychologii pachatele.
 
-[^2]: Зазвичай при плануванні військових операцій задається відсоток допустимих безповоротних втрат (іншими словами, вбитих) виходячи з якого надалі розраховуються потреби в евакуаційному транспорті, ліках, місцях у лікарнях та пакетах для трупів. Безповоротні втрати дуже рідко плануються на рівні понад 5%, оскільки статистично відомо, що поранених зазвичай втричі більше, ніж вбитих. Іншими словами, якщо запланувати, наприклад, 10% вбитих, то до них треба буде додати ще 30% поранених, що в сумі дасть 40% бійців, які втратять боєздатність протягом операції.
+[^ 2]: Obvykle se při plánování vojenských operací nastavuje procento přípustných nenapravitelných ztrát (jinými slovy usmrcených), na základě kterých se dále počítají potřeby evakuačního transportu, léků, míst v nemocnici a balíků mrtvol. Nevratné ztráty jsou velmi zřídka plánovány na více než 5 %, protože je statisticky známo, že raněných je obvykle třikrát více než zabitých. Jinými slovy, pokud plánujete např. 10 % mrtvých, budete muset přidat dalších 30 % zraněných, což dá celkem 40 % bojovníků, kteří během operace ztratí bojeschopnost.
+
+
