@@ -7,7 +7,7 @@
 | Мова                             | Статус                                                                                                                    | Перекладачі |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------|
 | [AR العربية](./ar/Cleansing.md)   | [![gitlocalized](https://gitlocalize.com/repo/7294/ar/badge.svg)](https://gitlocalize.com/repo/7294/ar?utm_source=badge) | ... |
-| [CS Čeština](./cs/Cleansing.md)   | [![gitlocalized](https://gitlocalize.com/repo/7294/cs/badge.svg)](https://gitlocalize.com/repo/7294/cs?utm_source=badge) | @tonylypianin |
+| [CS Čeština](./cs/Cleansing.md)   | [![gitlocalized](https://gitlocalize.com/repo/7294/cs/badge.svg)](https://gitlocalize.com/repo/7294/cs?utm_source=badge) | [tonylypianin](https://github.com/tonylypianin) |
 | [DE Deutsch](./de/Cleansing.md)   | [![gitlocalized](https://gitlocalize.com/repo/7294/de/badge.svg)](https://gitlocalize.com/repo/7294/de?utm_source=badge) | ... |
 | [EN English](./en/Cleansing.md)  | [![gitlocalized](https://gitlocalize.com/repo/7294/en/badge.svg)](https://gitlocalize.com/repo/7294/en?utm_source=badge) | [zbroyar](https://github.com/zbroyar), [bona-fide-supraman](https://github.com/bona-fide-supraman), [artemoliynyk](https://github.com/artemoliynyk), [cristina4u4i](https://github.com/cristina4u4i) |
 | [ES Español](./es/Cleansing.md)  | [![gitlocalized](https://gitlocalize.com/repo/7294/es/badge.svg)](https://gitlocalize.com/repo/7294/es?utm_source=badge) | [Solitudinem](https://github.com/Solitudinem) |
