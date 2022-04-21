@@ -4,7 +4,7 @@
 
 The mass killings of Ukrainian citizens by the Russian invading troops is nothing less than *planned extermination act towards the most active group of Ukrainian society*.
 
-Russians were incited for such social purges, as a result of years of the Russian state propaganda and their constant modus operandi [^1] in Ukraine [(see below)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
+Russian invading forces were incited for such social purges, as a result of years of the Russian state propaganda and their constant modus operandi[^1] in Ukraine [(see below)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
 
 ⚠️ *The document will be updated as new data will come.*
 
@@ -17,15 +17,15 @@ The similarity and uniformity of executions point to same methodology. Different
 A few patterns can be found among the mass killings of civilians in the Kyiv region:
 
 - the vast majority are military-age males;
-- with their hands tied behind their backs and shot in the back of their heads.
+- with their hands tied behind their backs and shot in the back of   their heads.
 
-Given the relative humanity of the method of execution (the brain is destroyed before a person can feel the pain), the SBU was consulted on the existence of methodological literature that can describe it.
+Given that this method of execution:
 
-According to them, the relevant literature of the Soviet era may exist in the closed archives of the Ministry of Internal Affairs. We continue the search.
+- is relatively humane, - brain is destroyed before a person can feel the pain;
+- was [widely used by NKVD](https://twitter.com/Churchill_N1/status/606656825774194690)
+- is [in use in Belarus](https://en.wikipedia.org/wiki/Capital_punishment_in_Belarus#Method)
 
-####
-
-[⚠️ Subgoal: check existence of some kind of approved guidelines in russian special services and agencies.](https://github.com/zbroyar/mass_killings/issues/15)
+we assume that the relevant Soviet era methodological literature exists and in posession of RU officers.
 
 ### Mass burials
 
