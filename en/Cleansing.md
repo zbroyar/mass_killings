@@ -2,9 +2,9 @@
 
 ## Overview
 
-The mass killings of Ukrainian citizens by the Russian invading troops is nothing less than *planned extermination act towards the most active group of Ukrainian society*.
+The mass killings of Ukrainian civilians by the Russian invading forces is a result of *planned extermination of socially active stratum of the Ukrainian society*.
 
-Russian invading forces were incited for such social purges, as a result of years of the Russian state propaganda and their constant modus operandi[^1] in Ukraine [(see below)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
+Russians were prepared to such actions by years of state propaganda and as a result demonstrated a consistency of their modus operandi[^1] in Ukraine [(see below)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
 
 ⚠️ *The document will be updated as new data will come.*
 
@@ -44,7 +44,7 @@ Coordinates: 50.548338967408654, 30.205741390181334
 
 Length - 13.15 m, the width is variable - from 3.2m to 2.4m. The initial depth can be established only after the exhumation, the pit is currently filled with bodies.
 
-#### Mass grave in Andriivka
+#### The pit for the mass burial in Andriivka
 
 Coordinates: 50.5502094, 29.8330253
 
