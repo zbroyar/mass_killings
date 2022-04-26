@@ -19,9 +19,13 @@ Entre los asesinatos masivos de la población civil de la Región de Kyiv sobres
 - de hombres en edad militar,
 - con las manos atadas detrás de la espalda y con la herida de bala en la nuca
 
-Dada la humanidad relativa del método de ejecución (el cerebro se destruye antes de que una persona pueda sentir el dolor), se ha consultado con el Servicio de Seguridad sobre la existencia de la literatura metodológica que podría describirlo.
+Teniendo en cuenta:
 
-Según ellos, la literatura relevante de la era soviética puede existir en los archivos cerrados del Ministerio del Interior. Continuamos la búsqueda.
+- la humaninad relativa del método de ejecución (el cerebro se destruye antes de que el ser humano sienta dolor),
+- el hecho de que el método de ejecución [fue utilizado mucho por la NKVD](https://twitter.com/Churchill_N1/status/606656825774194690),
+- el método de ejecución se usa [hasta ahora en Belorusia](https://en.wikipedia.org/wiki/Capital_punishment_in_Belarus#Method)
+
+hay indicios de que una literatura pertinente de la época de la URSS puede existir en los archivos cerrados y puede utilizarse por los oficiales de las instituciones de seguridad de Rusia.
 
 ####
 
@@ -29,7 +33,7 @@ Según ellos, la literatura relevante de la era soviética puede existir en los 
 
 ### Las fosas comunes
 
-En Rusia un GOST R 42.7.01-2021 nuevo sobre los enterramientos masivos fue aprobado en septiembre de 2021 y fue promulgado el 1 de febrero de 2022, un poco más de tres semanas antes de la guerra abierta: [La norma nacional de la Federación de Rusia. El enterramiento urgente de los cuerpos en tiempo de guerra y de paz](https://docs.cntd.ru/document/1200180859) ([Archivo Web](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
+En Rusia una norma GOST R 42.7.01-2021 nueva sobre los enterramientos masivos fue aprobada en septiembre de 2021 y fue promulgada el 1 de febrero de 2022, un poco más de tres semanas antes de la guerra abierta: [La norma nacional de la Federación de Rusia. El enterramiento urgente de los cuerpos en tiempo de guerra y de paz](https://docs.cntd.ru/document/1200180859) ([Archivo Web](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
 
 Según la norma de Rusia, el hoyo para la fosa común debe cumplir con los siguientes parámetros:
 
@@ -40,17 +44,17 @@ Según la norma de Rusia, el hoyo para la fosa común debe cumplir con los sigui
 
 #### La fosa común en Bucha
 
-Coordenadas: 50.548338967408654, 30.205741390181334
+Coordenadas: [50.548338967408654, 30.205741390181334](https://www.google.com/maps/place/50%C2%B032'54.0%22N+30%C2%B012'20.7%22E/@50.5484609,30.2058379,115m/data=!3m1!1e3!4m5!3m4!1s0x0:0x15cf9fe2434bd718!8m2!3d50.548339!4d30.2057414)
 
-La longitud - 13.15м, el ancho es variable - de 3.2м a 2.4м. Se podrá determinar la profundidad inicial solo después de la exhumación, ahora el hoyo está lleno de cuerpos.
+La longitud - 13.15m, el ancho es variable - de 3.2m a 2.4m. Se podrá determinar la profundidad inicial solo después de la exhumación, ahora el hoyo está lleno de cuerpos.
 
 #### La fosa común en Andriivka
 
-Coordenadas: 50.5502094, 29.8330253
+Coordenadas: [50.5502094, 29.8330253](https://www.google.com/maps/place/50%C2%B033'00.8%22N+29%C2%B049'58.9%22E/@50.5502835,29.8329207,115m/data=!3m1!1e3!4m5!3m4!1s0x0:0x8cd1f9f20a211e34!8m2!3d50.5502094!4d29.8330253)
 
-La longitud - 10.5m, el ancho - 4m, la profundidad - 4m. No hay cuerpos en el hoyo. La señora del jardín aprendió de los soldados que cavaban el hoyo que se destinó para los cadáveres de los habitantes del pueblo.
+La longitud - 10.5m, el ancho - 4m, la profundidad - 4м. No hay cuerpos en el hoyo. La señora del jardín supo a traves de los soldados que cavaban el hoyo que se destinaba para los cadáveres de los habitantes del pueblo.
 
-37 personas desaparecieron en el pueblo durante la ocupación. Hasta el 8 de marzo de 2022, se encontraron los lugares de enterramiento de 9 muertos. Tres de ellos fueron asesinados de manera característica: las manos atadas detrás de la espalda y una bala en la nuca.
+37 personas desaparecieron en el pueblo durante la ocupación. Hasta el 8 de marzo de 2022, se encontraron los lugares de enterramiento de 9 asesinados. Tres de ellos fueron asesinados de manera característica: las manos atadas detrás de la espalda y una bala en la nuca.
 
 ### Listas
 
@@ -64,14 +68,14 @@ Un representante de los Estados Unidos en la oficina de Ginebra de la ONU escrib
 
 ### Los crematorios móviles
 
-Se destinaban para evitar los enterramientos de los activistas sociales de Ucrania porque los lugares de enterramiento conocidos se convierten con el tiempo en “sitios de peregrinación” (modus operandi similar al asesinato de Roman Shujévych, [ver a continuación](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84)).
+Los crematorios móviles se destinaban para evitar los enterramientos de los activistas sociales de Ucrania porque los lugares de enterramiento conocidos se convierten con el tiempo en "sitios de peregrinación" (modus operandi similar al asesinato de Roman Shujévych, [ver a continuación](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84)).
 
 Ben Wallace, Ministro de Defensa de Reino Unido, informó sobre la preparación de los crematorios móviles 24 horas antes de la invasión de Rusia. Lo escribió en particular [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Archivo Web](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). La verdad es que el señor Wallace creyó equivocadamente que el ejercito ruso planeaba esconder sus pérdidas usando los crematorios.
 
 Como confirmación de la idea de que los crematorios no se destinaban para soldados rusos pueden servir los siguientes hechos:
 
 - los logares donde el ejercito ruso recogía sus cadáveres, organizó la exportación fuera de Ucrania;
-- el uso de los crematorios móviles para la quema masiva de los cuerpos no es racional por [las características que están declaradas por el productor](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Archivo Web](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
+- el uso de los crematorios móviles para la quema masiva de los cuerpos no es racional [por las características que están declaradas por el productor](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Archivo Web](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
 
 > En la utilización con fines rituales:
 >
@@ -100,7 +104,7 @@ En los siguientes materiales están presentes llamamientos para la partición po
 - ["¿Donde está el caos? El desembalaje de la estabilidad", el 20 de noviembre de 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ([Archivo Web](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html)),
 - ["La ofensiva de Rusia y del día nuevo"](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html), un caso interestante: el articulo se publicó automaticamente en ria.ru el 26 de febrero a las 8 de la mañana, eso sirve como una confirmación de confianza de la gestión politica y militar de Rusia en la conquista de Kyiv en dos días.
 - ["Que Rusia debe hacer con Ucrania", el 3 de abril de 2022](https://ria.ru/20220403/ukraina-1781469605.html) ([Archivo Web](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html)), ([un traducción al inglés](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64))
-- [Un fragmento de la intervención de M Jazin en una reunión del club "El horizonte ruso", el 23 de diciembre de 2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
+- [Un fragmento de la intervención de M. Jazin en una reunión del club «El horizonte ruso» el 23 de diciembre de 2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
 ### Los datos historicós sobre el modus operandi de los rusos en Ucrania
 
