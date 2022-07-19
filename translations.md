@@ -1,18 +1,16 @@
 # Як перекласти цей документ іншою мовою
 
-Загальний відсоток готовності всіх перекладів: [![gitlocalized ](https://gitlocalize.com/repo/7265/whole_project/badge.svg)](https://gitlocalize.com/repo/7265/whole_project?utm_source=badge)
+## ⚠️ Проблема з системою GitLocalize
 
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/ar/badge.svg)](https://gitlocalize.com/repo/7265/ar?utm_source=badge) Арабська
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/de/badge.svg)](https://gitlocalize.com/repo/7265/de?utm_source=badge) Німецька
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/en/badge.svg)](https://gitlocalize.com/repo/7265/en?utm_source=badge) Англійська
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/es/badge.svg)](https://gitlocalize.com/repo/7265/es?utm_source=badge) Іспанська
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/fr/badge.svg)](https://gitlocalize.com/repo/7265/fr?utm_source=badge) Французька
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/ru/badge.svg)](https://gitlocalize.com/repo/7265/ru?utm_source=badge) Російська
-- [![gitlocalized ](https://gitlocalize.com/repo/7265/zh/badge.svg)](https://gitlocalize.com/repo/7265/zh?utm_source=badge) Китайська
+Зараз існує проблема з системою перекладу GitLocalize, і ми про це знаємо.
+Проблема не дає нам можливості повноцінно займатися перекладом + відображаються некоректні дані щодо статусів перекладів.
+[Команда GitLocalize працює над цією проблемою](https://github.com/zbroyar/mass_killings/issues/31). Як тільки вирішиться проблема, перекладачі зможуть створювати PR.
 
-Ви можете долучитися до перекладу однією зі вказаних мов. Якщо ж ви хочете запропонувати переклад мовою, якої немає у
-списку, створіть нове Issue (<https://github.com/zbroyar/mass_killings/issues>) з пропозицією додати
-переклад іншою мовою, наприклад:
+## Я - перекладач
+
+Ви можете долучитися до перекладу однією із доступних для перекладу мов ([список тут](https://gitlocalize.com/repo/7294)).
+Якщо ж ви хочете запропонувати переклад мовою, якої немає у списку, створіть нове Issue (<https://github.com/zbroyar/mass_killings/issues>)
+з пропозицією додати переклад іншою мовою, наприклад:
 
 > Хочу допомогти з перекладом на італійську, будь ласка, додайте цю мову
 
@@ -20,7 +18,7 @@
 
 ## Як зареєструватися на GitHub
 
-- Просто зайдіть до <https://github.com>, оберіть ім’я користувача, якого ще ні в кого немає, надайте адресу електронної
+- Зайдіть до <https://github.com>, оберіть ім’я користувача, якого ще ні в кого немає, надайте адресу електронної
   пошти та пароль, натисніть на велику зелену кнопку "Sign up for Github" (Зареєструватись на Github).
 
 ![Форма реєстрації GitHub](https://git-scm.com/book/en/v2/images/signup.png)
@@ -38,7 +36,7 @@
 - Для того щоб мати змогу перекладати через GitLocalize вам потрібно авторизуватися на сайті <https://gitlocalize.com/>
   використовуючи ваш аканут GutHub (кнопка "Sign in with GitHub").
 - На формі авторизації - вводьте дані GitHub акаунту, а тоді "Sign In". Залогінились.
-- Заходьте на сторінку проекту в GitLocalize: <https://gitlocalize.com/repo/7265>
+- Заходьте на сторінку проекту в GitLocalize: <https://gitlocalize.com/repo/7294>
 - Обирайте мову зі списку, над яким перекладом ви плануєте працювати. *Будь який переклад який має < 100% потребує
   доопрацювання* (можливі причини: переклад не було завершено іншим перекладачем, або ж вихідний файл був оновлений і
   тепер наявний переклад не відповідає вихідному файлу, а отже потребує доопрацювання).
