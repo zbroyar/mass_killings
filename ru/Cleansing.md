@@ -72,7 +72,7 @@
 
 О подготовке мобильных крематориев для вторжения в Украину армией РФ за сутки до вторжения заявил Министр Обороны Великобритании Ben Wallace. Об этом написал, в частности, [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ([Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle)). Правда, господин Walles по ошибке решил, что с их помощью армия РФ собирается скрывать свои потери.
 
-Подтверждениями тезиса о том, что крематории предназначались не для русских солдат, могут служить следующие факты:
+Подтверждением того, что крематории предназначались не для русских солдат, могут служить следующие факты:
 
 - там, где армия РФ вообще собирала трупы своих, был налажен их вывоз за пределы Украины;
 - использование мобильных крематориев для массового сожжения тел нерационально из-за [характеристик заявленные производителем](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
