@@ -1,14 +1,14 @@
-# O *plánovných* hromadných vraždách na území Ukrajiny
+# O *předem plánovaných* hromadných vraždách na území Ukrajiny
 
 ## Shrnutí
 
 Masové zabíjení ukrajinských občanů ruskými invazními silami je výsledkem *předem plánované operace fyzického vyhlazení sociálně aktivní vrstvy ukrajinské společnosti* .
 
-„Poplatek“ Rusů za takové sociální čistky je zejména výsledkem mnohaleté státní propagandy v Rusku a neměnnosti jejich modu operandi [^ 1] na Ukrajině [(viz níže)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84) .
+„Připravenost“ Rusů na takové sociální čistky je zejména následkem mnohaleté státní propagandy v Ruské federaci a neměnnosti jejich modu operandi [^1] na Ukrajině [(viz níže)](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84).
 
 ⚠️ *Dokument bude aktualizován a doplňován tak, jak budou přijímána a zpracovávána nová data.*
 
-## Підтвердження
+## Potvrzení
 
 ### Jednotvárnost exekucí
 
@@ -19,9 +19,13 @@ Mezi masovým zabíjením civilistů v oblasti Kyjeva tak jasně vyčnívají za
 - většinou muži vojenského věku,
 - s rukama spoutanýma za zády a dírou po kulce vzadu na hlavě.
 
-Vzhledem k relativní lidskosti způsobu popravy (mozek je zničen dříve, než člověk ucítí bolest), byla SBU konzultována ohledně existence metodologické literatury, která to může popsat.
+Враховуючи:
 
-Podle nich může příslušná literatura sovětské éry existovat v uzavřených archivech ministerstva vnitra. Pokračujeme v hledání.
+- відносну гуманність способу страти (мозок руйнується до того як людина встигає відчути біль),
+- той факт, що спосіб страти [широко застосовувався НКВС](https://twitter.com/Churchill_N1/status/606656825774194690),
+- спосіб страти досі [застосовується у Білорусі](https://en.wikipedia.org/wiki/Capital_punishment_in_Belarus#Method)
+
+є всі підстави вважати, що відповідна література часів СРСР може існувати у закритих архівах та застосовуватись офіцерами силових структур РФ.
 
 ####
 
@@ -29,7 +33,7 @@ Podle nich může příslušná literatura sovětské éry existovat v uzavřen�
 
 ### Hromadné pohřby
 
-V Rusku byl nový GOST R 42.7.01-2021 o hromadném pohřbívání přijat 21. září a vstoupil v platnost 1. února 2022, o něco více než 3 týdny před začátkem otevřené války: [Národní standard Ruské federace . Naléhavé pohřbívání mrtvol v době války a míru](https://docs.cntd.ru/document/1200180859) ( [Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859) ).
+У РФ новий ГОСТ Р 42.7.01-2021 про масові захоронення був прийнятий у вересні 2021 року та введений в дію 1-го лютого 2022 року, трохи більше, ніж за 3 тижні до початку відкритої війни: [Национальный стандарт Российской федерации. Захоронение срочное трупов в военное и мирное время](https://docs.cntd.ru/document/1200180859) ([Web Archive](https://web.archive.org/web/20220402173717/https://docs.cntd.ru/document/1200180859)).
 
 Podle standardu Ruské federace by jáma pro hromadné pohřbívání měla mít následující velikosti:
 
@@ -40,15 +44,15 @@ Podle standardu Ruské federace by jáma pro hromadné pohřbívání měla mít
 
 #### Hromadný pohřeb v Bucha
 
-Souřadnice: 50,548338967408654, 30,205741390181334
+Координати: [50.548338967408654, 30.205741390181334](https://www.google.com/maps/place/50%C2%B032'54.0%22N+30%C2%B012'20.7%22E/@50.5484609,30.2058379,115m/data=!3m1!1e3!4m5!3m4!1s0x0:0x15cf9fe2434bd718!8m2!3d50.548339!4d30.2057414)
 
 Délka - 13,15 m, variabilní šířka - od 3,2 m do 2,4 m. Počáteční hloubku lze stanovit až po exhumaci, nyní je jáma naplněna těly.
 
 #### Hromadný pohřeb v Andriyivce
 
-Souřadnice: 50.5502094, 29.8330253
+Координати: [50.5502094, 29.8330253](https://www.google.com/maps/place/50%C2%B033'00.8%22N+29%C2%B049'58.9%22E/@50.5502835,29.8329207,115m/data=!3m1!1e3!4m5!3m4!1s0x0:0x8cd1f9f20a211e34!8m2!3d50.5502094!4d29.8330253)
 
-Délka - 10,5 m, šířka - 4 m, hloubka - 4 m. V jámě nejsou žádná těla. Majitel dvora dostal od vojáků, kteří jámu kopali, informaci, že jáma je určena pro mrtvoly vesničanů.
+Довжина - 10.5 метра, ширина - 4м, глибина - 4м. Тіл у ямі нема. Інформацію про те, що яма призначалася саме для трупів жителів села власниця подвір'я отримала від солдатів, які копали яму.
 
 Za okupace v obci zmizelo 37 lidí. K 8. březnu 2022 byla nalezena nebo jsou známa pohřebiště 9 zabitých. Tři z nich byli zabiti charakteristickým způsobem: ruce svázané za zády a kulka do zátylku.
 
@@ -56,7 +60,7 @@ Za okupace v obci zmizelo 37 lidí. K 8. březnu 2022 byla nalezena nebo jsou zn
 
 Rusové sestavili seznamy Ukrajinců ke zničení a izolaci.
 
-Několik dní před invazí americký zástupce v Ženevské kanceláři OSN napsal [dopis](https://www.washingtonpost.com/context/read-u-s-letter-to-the-u-n-alleging-russia-is-planning-human-rights-abuses-in-ukraine/93a8d6a1-5b44-4ae8-89e5-cd5d328dd150/?itid=lk_inline_manual_4) OHCHR (Ústředí OSN pro lidská práva), ve kterém vyjádřil znepokojení nad těmito informacemi.
+Několik dní před invazí americký zástupce v Ženevské kanceláři OSN napsal [dopis](https://www.washingtonpost.com/context/read-u-s-letter-to-the-u-n-alleging-russia-is-planning-human-rights-abuses-in-ukraine/93a8d6a1-5b44-4ae8-89e5-cd5d328dd150/?itid=lk_inline_manual_4) OHCHR (Úřad Vysokého komisaře OSN pro lidská práva), ve kterém vyjádřil znepokojení nad těmito informacemi.
 
 ####
 
@@ -64,14 +68,14 @@ Několik dní před invazí americký zástupce v Ženevské kanceláři OSN nap
 
 ### Mobilní krematoria
 
-Účelem je vyhnout se pohřbům veřejných a veřejných osobností Ukrajiny, protože veřejně známá pohřebiště nakonec vytvářejí „poutní místa“ (modus operandi podobný vraždě Romana Shukhevyche, [viz níže](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84) ).
+Мобільні крематорії призначались для уникнення поховань громадських та суспільних діячів України, оскільки публічно відомі місця захоронення з часом перетворюються на "місця паломництва" (modus operandi аналогічний до вбивства Романа Шухевича, [див. нижче](Cleansing.md#%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B2-%D1%80%D1%84)).
 
 Přípravu mobilních krematorií na invazi ruské armády na Ukrajinu den před invazí oznámil ministr obrany Spojeného království Ben Wallace. To napsal zejména [The Telegraph](https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ( [Web Archive](https://web.archive.org/web/20220331033347/https://www.telegraph.co.uk/world-news/2022/02/23/russia-deploys-mobile-crematorium-follow-troops-battle) ). Pan Walles se však mylně rozhodl, že s jejich pomocí bude ruská armáda skrývat své vlastní ztráty.
 
 Tezi, že krematoria nebyla určena pro ruské vojáky, mohou potvrdit následující skutečnosti:
 
 - tam, kde armáda Ruské federace zpravidla shromažďovala své mrtvoly, byl zajištěn jejich vývoz mimo Ukrajinu;
-- použití mobilních krematorií pro hromadné kremace je vzhledem k [vlastnostem uváděným výrobcem](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) iracionální ( [Web Archiv](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ):
+- використання мобільних крематоріїв для масового спалення тіл є нераціональним через [характеристики заявлені виробником](http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331) ([Web Archive](https://web.archive.org/web/20220226133306/http://turmalin.su/index.php?option=com_content&view=article&id=185&Itemid=331)):
 
 > Při použití pro rituální účely:
 >
@@ -100,7 +104,7 @@ Následující veřejné materiály vyzývají k nucenému rozdělení / přeroz
 - ["Kam zmizel ten chaos? Stabilita rozbalování", 20. listopadu 2021](https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ( [Webový archiv](https://web.archive.org/web/20220401131352/https://actualcomment.ru/kuda-delsya-khaos-raspakovka-stabilnosti-2111201336.html) ),
 - [„Útok Ruska a Nového světa“](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html) je velmi zajímavý případ: článek byl automaticky publikován na ria.ru 26. února v 8:00 a během několika hodin odstraněn z webu, což potvrzuje důvěru ruské armády vedení při dobytí Kyjeva za dva dny.
 - [„Co by Rusko mělo udělat s Ukrajinou“, 03.04.2022](https://ria.ru/20220403/ukraina-1781469605.html) ( [Webový archiv](https://web.archive.org/web/20220404140751/https://ria.ru/20220403/ukraina-1781469605.html) ), ( [anglický překlad](https://medium.com/@kravchenko_mm/what-should-russia-do-with-ukraine-translation-of-a-propaganda-article-by-a-russian-journalist-a3e92e3cb64) )
-- [Fragment projevu M. Khazina na jednání klubu "Ruský výhled" 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s) .
+- [Фрагмент виступу М. Хазіна на засіданні клубу «Русский кругозор» 23.12.2016](https://www.youtube.com/watch?v=njCjKWMy2n0&t=40s).
 
 ### Historické údaje o modu operandi Rusů na Ukrajině
 
@@ -123,5 +127,3 @@ Události posledních 8 let ukazují neměnnost modu operandi Rusů na Ukrajině
 [^ 1]: Modus operandi – fráze z latiny, zhruba znamenající „způsob jednání“. V množném čísle modi operandi („způsoby jednání“). Tato fráze se v jurisprudenci používá k popisu způsobu, jakým byl trestný čin spáchán. V trestněprávním smyslu lze pro zjištění profilu pachatele použít modus operandi, kde lze nalézt klíče k psychologii pachatele.
 
 [^ 2]: Obvykle se při plánování vojenských operací nastavuje procento přípustných nenapravitelných ztrát (jinými slovy usmrcených), na základě kterých se dále počítají potřeby evakuačního transportu, léků, míst v nemocnici a balíků mrtvol. Nevratné ztráty jsou velmi zřídka plánovány na více než 5 %, protože je statisticky známo, že raněných je obvykle třikrát více než zabitých. Jinými slovy, pokud plánujete např. 10 % mrtvých, budete muset přidat dalších 30 % zraněných, což dá celkem 40 % bojovníků, kteří během operace ztratí bojeschopnost.
-
-
