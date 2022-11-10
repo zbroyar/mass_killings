@@ -8,7 +8,7 @@ The "enthusiasm" with which Russians carried out these purges, is a key conseque
 
 ⚠️ *This document will be corrected and amended as new information is acquired and processed.*
 
-## Evidences
+## Evidence
 
 ### The Similarity of Executions
 
@@ -127,3 +127,5 @@ The Chief of the Secret Intelligence Service (MI6) Twitted that they had informa
 [^1]: Modus operandi - a Latin phrase, meaning "method of action". In plural it is called modi operandi ("methods of action"). The term is often used in police work when discussing crime and addressing the methods employed by criminals. It is also used in criminal profiling, where it can help in finding clues to the offender's psychology. (wiki)
 
 [^2]: Usually, when planning a military operation, a percentage of tolerable irreversible losses (in other words, percentage of troops killed) is set, based on which, needs for evacuation transport, medicine, hospital places and body bags are calculated for the future. Irreversible losses of more than 5% are very rarely planned for, since statistically the rate of wounded is three times more than killed. So in other words, if you plan for example, for 10% killed, then 30% wounded will have to be added to that, which will give you a total of 40% of fighters who will lose their fighting capacity during the operation.
+
+
